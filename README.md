@@ -1,7 +1,5 @@
 # AutoCTUS-LM
-Example code and data are hosted in google drive.
-URLs of where to download the code with example data. 
-http://www.example.com
+Example to run the code with pictures is hosted in [google drive](https://pages.github.com/)
 
 Author: Nick Y. Larsen
 
