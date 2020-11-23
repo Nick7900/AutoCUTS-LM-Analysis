@@ -21,6 +21,15 @@ There are four folders in this repository.
 
 ![01_segmentationCombined](https://user-images.githubusercontent.com/70948370/100010000-ea75c900-2dcf-11eb-9ce9-e4a37dcf3f7b.png)
 
+![01_alignCombined](https://user-images.githubusercontent.com/70948370/100010106-0d07e200-2dd0-11eb-8599-7741753e5d92.png)
+
+![02_cromCombined](https://user-images.githubusercontent.com/70948370/100010154-20b34880-2dd0-11eb-8523-ddbdca6de5d5.png)
+
+![03_cropArea](https://user-images.githubusercontent.com/70948370/100010204-3294eb80-2dd0-11eb-9347-7f7d134086b0.png)
+
+![04_reconstruction](https://user-images.githubusercontent.com/70948370/100010227-39bbf980-2dd0-11eb-96d4-b26f9f004f3c.png)
+
+
 ####
 Author: Nick Y. Larsen
 
