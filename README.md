@@ -25,11 +25,11 @@ There are four folders in this repository.
 
 ![02_cromCombined](https://user-images.githubusercontent.com/70948370/100010154-20b34880-2dd0-11eb-8523-ddbdca6de5d5.png)
 
-![03_cropArea](https://user-images.githubusercontent.com/70948370/100010204-3294eb80-2dd0-11eb-9347-7f7d134086b0.png)
+![03_cropArea2](https://user-images.githubusercontent.com/70948370/100010304-5b1ce580-2dd0-11eb-894a-373cf6171c68.png)
 
 ![04_reconstruction](https://user-images.githubusercontent.com/70948370/100010227-39bbf980-2dd0-11eb-96d4-b26f9f004f3c.png)
 
 
 ####
-Author: Nick Y. Larsen
+Author: Nick Yin Larsen
 
