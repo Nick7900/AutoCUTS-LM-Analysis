@@ -2,6 +2,7 @@
 Example to run the code with pictures is hosted in [google drive](https://pages.github.com/)
 
 Author: Nick Y. Larsen
+![IMG_20180419_101018](https://user-images.githubusercontent.com/70948370/99980879-044fe580-2da9-11eb-9894-c1fecc2fc520.jpg)
 
 ## Code Guideline
 
