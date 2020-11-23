@@ -1,8 +1,8 @@
 # AutoCTUS-LM
 Demostration to run the AutoCUTS-pipeline code with pictures.
 To download the code with some example images, please go to [google drive](https://pages.github.com/)
+For paper, slides and poster, please refer to this project:
 
-Author: Nick Y. Larsen
 
 ## Code Guideline
 
@@ -17,5 +17,5 @@ There are four folders in this repository.
 4. ValidationDeeplearning shows how we run the trained models during testing. The three types of trained models can be downloaded in the google drive. Please put them under "./demo_step003_training/models" to run them
 
 ####
-contact: Nick Yin Larsen
+Author: Nick Y. Larsen
 
