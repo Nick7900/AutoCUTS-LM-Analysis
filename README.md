@@ -17,6 +17,10 @@ There are four folders in this repository.
 
 4. ValidationDeeplearning shows how we run the trained models during testing. The three types of trained models can be downloaded in the google drive. Please put them under "./demo_step003_training/models" to run them
 
+![01_combineImg](https://user-images.githubusercontent.com/70948370/100009936-cdd99100-2dcf-11eb-893a-8a4dd9c1ef1d.png)
+
+![01_segmentationCombined](https://user-images.githubusercontent.com/70948370/100010000-ea75c900-2dcf-11eb-9ce9-e4a37dcf3f7b.png)
+
 ####
 Author: Nick Y. Larsen
 
