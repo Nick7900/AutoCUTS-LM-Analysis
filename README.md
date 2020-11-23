@@ -1,5 +1,6 @@
 # AutoCTUS-LM
-Example to run the code with pictures is hosted in [google drive](https://pages.github.com/)
+Demostration to run the AutoCUTS-pipeline code with pictures.
+To download the code with some example images, please go to [google drive](https://pages.github.com/)
 
 Author: Nick Y. Larsen
 
@@ -17,3 +18,4 @@ There are four folders in this repository.
 
 ####
 contact: Nick Yin Larsen
+
