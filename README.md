@@ -1,5 +1,5 @@
 # Introduction
-Demostration to run the AutoCUTS-pipeline code with pictures.
+Demonstration to run the AutoCUTS-pipeline code with pictures.
 To download the code with some example images, please go to [google drive](https://pages.github.com/)
 Cite the code:
 [![DOI](https://zenodo.org/badge/313559780.svg)](https://zenodo.org/badge/latestdoi/313559780)
@@ -20,16 +20,16 @@ There are four folders in this repository.
 
 
 
-2. Section_segmentation script that is use to detect sections in focus and export them as individual files.
+2. Section_segmentation script that is used to detect sections in focus and export them as individual files.
 
 ![01_segmentationCombined](https://user-images.githubusercontent.com/70948370/100010000-ea75c900-2dcf-11eb-9ce9-e4a37dcf3f7b.png)
 
 
 
-3. AutoCUTSAnalysis contain scripts that shows the follwing steps: 
+3. AutoCUTSAnalysis contain scripts that show the following steps: 
 - Align sections
 - Crop aligned stack where only tissue appears
-- Crop region of interest for analysis based on at density map of centroids 
+- Crop region of interest for analysis based on a density map of centroids 
 - Filtering small cells away and 3D-reconstruction
 
 ![01_alignCombined](https://user-images.githubusercontent.com/70948370/100010106-0d07e200-2dd0-11eb-8599-7741753e5d92.png)
