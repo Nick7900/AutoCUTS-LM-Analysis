@@ -4,6 +4,11 @@ To download the code with some example images, please go to [google drive](https
 Cite the code:
 [![DOI](https://zenodo.org/badge/313559780.svg)](https://zenodo.org/badge/latestdoi/313559780)
 
+## Requirements 
+Before starting, you will need the following:
+
+Install [Image processing toolbox](https://www.mathworks.com/products/image.html) and [Computer vision toolbox](https://www.mathworks.com/products/computer-vision.html) before running the code. 
+
 
 ## Code Guideline
 
