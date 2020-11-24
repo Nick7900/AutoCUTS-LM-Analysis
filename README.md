@@ -27,7 +27,12 @@ There are four folders in this repository.
 
 ![03_cropArea2](https://user-images.githubusercontent.com/70948370/100010304-5b1ce580-2dd0-11eb-894a-373cf6171c68.png)
 
-![04_reconstruction](https://user-images.githubusercontent.com/70948370/100010227-39bbf980-2dd0-11eb-96d4-b26f9f004f3c.png)
+![04_reconstruction_combined](https://user-images.githubusercontent.com/70948370/100068174-75d67500-2e37-11eb-89a6-39aa7ab141be.png)
+
+![01_pixelValidation](https://user-images.githubusercontent.com/70948370/100068549-fe551580-2e37-11eb-98ab-5f6a0f963764.png)
+
+![01_objectviseValidation](https://user-images.githubusercontent.com/70948370/100068564-01500600-2e38-11eb-829a-c3b91dce2898.png)
+
 
 
 ####
