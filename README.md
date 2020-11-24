@@ -18,9 +18,13 @@ There are four folders in this repository.
 
 ![01_combineImg](https://user-images.githubusercontent.com/70948370/100009936-cdd99100-2dcf-11eb-893a-8a4dd9c1ef1d.png)
 
+
+
 2. Section_segmentation script that is use to detect sections in focus and export them as individual files.
 
 ![01_segmentationCombined](https://user-images.githubusercontent.com/70948370/100010000-ea75c900-2dcf-11eb-9ce9-e4a37dcf3f7b.png)
+
+
 
 3. AutoCUTSAnalysis contain scripts that shows the follwing steps: 
 - Align sections
@@ -35,6 +39,8 @@ There are four folders in this repository.
 ![03_cropArea2](https://user-images.githubusercontent.com/70948370/100010304-5b1ce580-2dd0-11eb-894a-373cf6171c68.png)
 
 ![04_reconstruction_combined](https://user-images.githubusercontent.com/70948370/100068174-75d67500-2e37-11eb-89a6-39aa7ab141be.png)
+
+
 
 4. ValidationDeeplearning shows the pixelwise and objectwise validation of the UNetDense model output.
 
