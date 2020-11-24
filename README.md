@@ -1,6 +1,6 @@
 # Introduction
 Demonstration to run the AutoCUTS-pipeline code with pictures.
-To download the code with some example images, please go to [google drive](https://pages.github.com/)
+To download the code with some example images, please go to [google drive](https://drive.google.com/drive/folders/1PFH3ZDogbBHG3NMdwgxhIrmVJBk39LKw?usp=sharing)
 Cite the code:
 [![DOI](https://zenodo.org/badge/313559780.svg)](https://zenodo.org/badge/latestdoi/313559780)
 
