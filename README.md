@@ -29,8 +29,8 @@ There are four folders in this repository.
 3. AutoCUTSAnalysis contain scripts that show the following steps: 
 - Align sections
 - Crop aligned stack where only tissue appears
-- Crop region of interest for analysis based on a density map of centroids 
-- Filtering small cells away and 3D-reconstruction
+- Using the UNetDense architecture to segment cells, the region of interest could then be defined based on a density map of centroids.
+- Filtering small cells away with k-means and reconstruct neurons in 3D. 
 
 ![01_alignCombined](https://user-images.githubusercontent.com/70948370/100010106-0d07e200-2dd0-11eb-8599-7741753e5d92.png)
 
