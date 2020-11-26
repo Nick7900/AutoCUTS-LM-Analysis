@@ -8,7 +8,8 @@ Cite the code:
 ## Requirements 
 Before starting, you will need the following:
 
-Install [Image processing toolbox](https://www.mathworks.com/products/image.html) and [Computer vision toolbox](https://www.mathworks.com/products/computer-vision.html) before running the code. 
+- Install MATLAB.
+- Install [Image processing toolbox](https://www.mathworks.com/products/image.html) and [Computer vision toolbox](https://www.mathworks.com/products/computer-vision.html) before running the code. 
 
 
 ## Code Guideline
