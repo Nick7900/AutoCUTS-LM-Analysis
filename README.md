@@ -53,8 +53,7 @@ There are five folders in this repository.
 5. CylindricalKfunction
 Demonstration to run the cylindrical K-function code with pictures. The function was introduced in '[The cylindrical K-function and Poisson line cluster point processe](https://arxiv.org/abs/1503.07423)' by Jesper Møller et al. 
 All credits go to the script writer, Ninna Vihrs.
-
-- The code analyses the columnar structure in 3D point patterns.
+- The code analyses the columnar structure in 3D point patterns for one test subject.
 ![global envelopes](https://user-images.githubusercontent.com/70948370/100643186-029e9880-333a-11eb-8c57-af2becf028f9.PNG)
 ![summary](https://user-images.githubusercontent.com/70948370/100643188-03cfc580-333a-11eb-912e-ed6777b27367.PNG)
 
