@@ -10,11 +10,11 @@ Before starting, you will need the following:
 
 - Install [MATLAB](https://www.mathworks.com/downloads/).
 - Install [Image processing toolbox](https://www.mathworks.com/products/image.html) and [Computer vision toolbox](https://www.mathworks.com/products/computer-vision.html) before running the code. 
-
+- Install [R](https://cran.r-project.org/).
 
 ## Code Guideline
 
-There are four folders in this repository.
+There are five folders in this repository.
 
 1. BiopsyExtraction contains a userfriendly script to random sample biopsies from a block of tissue.  
 
@@ -50,9 +50,18 @@ There are four folders in this repository.
 
 ![01_objectviseValidation](https://user-images.githubusercontent.com/70948370/100068564-01500600-2e38-11eb-829a-c3b91dce2898.png)
 
+5. CylindricalKfunction
+Demonstration to run the cylindrical K-function code with pictures. The function was introduced in '[The cylindrical K-function and Poisson line cluster point processe](https://arxiv.org/abs/1503.07423)' by Jesper Møller et al. 
+All credits go to the script writer, Ninna Vihrs.
+
+- The code analyses the columnar structure in 3D point patterns.
+![global envelopes](https://user-images.githubusercontent.com/70948370/100643186-029e9880-333a-11eb-8c57-af2becf028f9.PNG)
+![summary](https://user-images.githubusercontent.com/70948370/100643188-03cfc580-333a-11eb-912e-ed6777b27367.PNG)
+
+
 
 ## Contact
-If you have any questions or suggestions, you can reach me via e-mail at nick.yin.larsen@gmail.com
+If you have any questions or suggestions, you can reach Nick via e-mail at nick.yin.larsen@gmail.com for the MATLAB scripts or Ninna via e-mail at nvihrs@math.aau.dk for the R-script.
 
 #### Author: Nick Yin Larsen
 
