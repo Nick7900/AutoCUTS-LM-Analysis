@@ -2,8 +2,7 @@
 Demonstration to run the AutoCUTS-LM-Analysis code with pictures.
 The full setup with scripts and some image examples will be available after publication.
 
-Cite the code:
-
+Cite the code: https://github.com/Nick7900/AutoCUTS-LM-Analysis or article after publication.
 ## Requirements 
 Before starting, you will need the following:
 
