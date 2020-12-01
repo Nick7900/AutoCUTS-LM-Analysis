@@ -3,7 +3,6 @@ Demonstration to run the AutoCUTS-LM-Analysis code with pictures.
 The full setup with scripts and some image examples will be available after publication.
 
 Cite the code:
-[![DOI](https://zenodo.org/badge/313559780.svg)](https://zenodo.org/badge/latestdoi/313559780)
 
 ## Requirements 
 Before starting, you will need the following:
