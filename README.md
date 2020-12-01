@@ -18,7 +18,7 @@ There are five folders in this repository.
 
 1. BiopsyExtraction contains a userfriendly script to random sample biopsies from a block of tissue.  
 
-![01_combineImg](https://user-images.githubusercontent.com/70948370/100009936-cdd99100-2dcf-11eb-893a-8a4dd9c1ef1d.png)
+![combineImg_demoUpload](https://user-images.githubusercontent.com/70948370/100726005-ab91d580-33c4-11eb-8aa9-3a10eab9d7fc.PNG)
 
 
 
