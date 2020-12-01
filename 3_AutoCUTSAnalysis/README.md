@@ -10,6 +10,6 @@ The folder should thereafter be renamed to the desired name and add '_1_order' e
 
 4. After the images from 'bCropToDeepLearning' have been segmented with the UNetDense architecture, then run 'cCropLayer3' region of interest for analysis.
 
-5. Run 'dPredicSegmentationFinal' to do the 3D-reconstruction of neurons and get morphological measurements out.
+5. Run 'dPredicSegmentation' to do the 3D-reconstruction of neurons and get morphological measurements out.
 
 6. Run 'eHistogramDataPlot' to read the output from 'dPredicSegmentationFinal' to estimate mean, standard deviation, coefficient of variation and plot histograms.
