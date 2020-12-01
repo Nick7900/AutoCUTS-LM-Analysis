@@ -20,13 +20,13 @@ There are five folders in this repository.
 
 
 
-2. Section_segmentation script that is used to detect sections in focus and export them as individual files.
+2. Section_segmentation script was used to detect focused sections and export them as individual files. The script was appled on a test image.
 
 ![01_segmentationCombined](https://user-images.githubusercontent.com/70948370/100010000-ea75c900-2dcf-11eb-9ce9-e4a37dcf3f7b.png)
 
 
 
-3. AutoCUTSAnalysis contain scripts that show the following steps: 
+3. AutoCUTSAnalysis includes scripts implemented on a test collection of 50 images that involve the following steps:
 - Align sections
 - Crop aligned stack where only tissue appears
 - Using the UNetDense architecture to segment cells, the region of interest could then be defined based on a density map of centroids.
