@@ -45,7 +45,9 @@ There are five folders in this repository.
 
 
 4. ValidationDeeplearning will estimate the pixelwise and objectwise validation of the UNetDense model output.
-- Pictures will be attach after publication.
+- Pictures of objectwise validation will be attach after publication.
+- Look at False-Negative plot in the article for further information.
+![01_objectviseValidation_2](https://user-images.githubusercontent.com/70948370/100723354-f3fbc400-33c1-11eb-8324-dc380dd80791.PNG)
 
 5. CylindricalKfunction
 Demonstration to run the cylindrical K-function code with pictures. The function was introduced in '[The cylindrical K-function and Poisson line cluster point processe](https://arxiv.org/abs/1503.07423)' by Jesper Møller et al. 
