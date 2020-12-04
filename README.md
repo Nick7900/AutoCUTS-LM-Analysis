@@ -26,7 +26,7 @@ There are five folders in this repository.
 
 
 
-3. AutoCUTSAnalysis includes scripts implemented on a test collection of 50 images that involve the following steps:
+3. AutoCUTSAnalysis includes scripts implemented on a test collection of 50 images(will be available after publication of article) that involve the following steps:
 - Align sections
 - Crop aligned stack where only tissue appears
 - Using the UNetDense architecture to segment cells, the region of interest could then be defined based on a density map of centroids.
