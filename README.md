@@ -57,6 +57,6 @@ All credits go to the script writer, Ninna Vihrs.
 
 ## Contact
 If you have any questions or suggestions, you can reach Nick via e-mail at nick.yin.larsen@gmail.com for the MATLAB scripts or Ninna via e-mail at nvihrs@math.aau.dk for the R-script.
-
+Cite the code: [![DOI](https://zenodo.org/badge/313559780.svg)](https://zenodo.org/badge/latestdoi/313559780)
 #### Author: Nick Yin Larsen
 
