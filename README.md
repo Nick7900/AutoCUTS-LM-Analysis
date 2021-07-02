@@ -2,7 +2,8 @@
 Demonstration to run the AutoCUTS-LM-Analysis code with pictures.
 The full setup with scripts and some image examples will be available after publication.
 
-Cite the code: https://github.com/Nick7900/AutoCUTS-LM-Analysis or article after publication.
+When using the code or data you can cite: Larsen NY, Li X, Tan X, Ji G, Lin J, Rajkowska G, Møller J, Vihrs N, Sporring J, Fei S, Nyengaard JR. Cellular 3D-reconstruction and analysis in the human cerebral cortex using automatic serial sections. Nature Communications Biology. 2021 
+[![DOI](https://zenodo.org/badge/313559780.svg)](https://zenodo.org/badge/latestdoi/313559780)
 ## Requirements 
 Before starting, you will need the following:
 
@@ -57,8 +58,6 @@ All credits go to the script writer, Ninna Vihrs.
 
 ## Contact
 If you have any questions or suggestions, you can reach Nick via e-mail at nick.yin.larsen@gmail.com for the MATLAB scripts or Ninna via e-mail at nvihrs@math.aau.dk for the R-script.
-When using the code cite:
-Larsen NY, Li X, Tan X, Ji G, Lin J, Rajkowska G, Møller J, Vihrs N, Sporring J, Fei S, Nyengaard JR. Cellular 3D-reconstruction and analysis in the human cerebral cortex using automatic serial sections. Nature Communications Biology. 2021 (In press)
 [![DOI](https://zenodo.org/badge/313559780.svg)](https://zenodo.org/badge/latestdoi/313559780)
 
 #### Author: Nick Yin Larsen
