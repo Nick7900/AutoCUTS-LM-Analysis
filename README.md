@@ -39,7 +39,8 @@ There are five folders in this repository.
 
 ![03_cropArea3](https://user-images.githubusercontent.com/70948370/126832495-f481a92e-8e59-4d83-9ccd-7c810bbbb403.png)
 
-![04_reconstruction_combined](https://user-images.githubusercontent.com/70948370/100068174-75d67500-2e37-11eb-89a6-39aa7ab141be.png)
+![04_reconstruction_combined_2](https://user-images.githubusercontent.com/70948370/126833280-93500fc9-9e5c-4db4-b04b-14589244351d.png)
+
 
 
 
