@@ -37,7 +37,7 @@ There are five folders in this repository.
 
 ![02_cromCombined](https://user-images.githubusercontent.com/70948370/100010154-20b34880-2dd0-11eb-8523-ddbdca6de5d5.png)
 
-![03_cropArea2](https://user-images.githubusercontent.com/70948370/100010304-5b1ce580-2dd0-11eb-894a-373cf6171c68.png)
+![03_cropArea3](https://user-images.githubusercontent.com/70948370/126832495-f481a92e-8e59-4d83-9ccd-7c810bbbb403.png)
 
 ![04_reconstruction_combined](https://user-images.githubusercontent.com/70948370/100068174-75d67500-2e37-11eb-89a6-39aa7ab141be.png)
 
