@@ -2,7 +2,7 @@
 Demonstration to run the AutoCUTS-LM-Analysis code with pictures.
 The full setup with scripts and some image examples will be available after publication.
 
-When using the code or data you can cite: Larsen NY, Li X, Tan X, Ji G, Lin J, Rajkowska G, Møller J, Vihrs N, Sporring J, Fei S, Nyengaard JR. Cellular 3D-reconstruction and analysis in the human cerebral cortex using automatic serial sections. Nature Communications Biology. 2021 
+When using the code or data you can cite: Larsen NY, Li X, Tan X, Ji G, Lin J, Rajkowska G, Møller J, Vihrs N, Sporring J, Fei S, Nyengaard JR. Cellular 3D-reconstruction and analysis in the human cerebral cortex using automatic serial sections. Communications Biology. 2021 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.5163245.svg)](https://doi.org/10.5281/zenodo.5163245)
 
 ## Requirements 
