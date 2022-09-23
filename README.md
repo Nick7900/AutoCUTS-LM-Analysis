@@ -66,12 +66,10 @@ If using this dataset, please cite:
 @Article{NYLCOM,
   author    = {NY Larsen and X Li and X Tan and G Ji and J Lin and G Rajkowska and J Møller and N Vihrs and J Sporring and F Sun and JR Nyengaard},
   journal   = {Communication Biology (in press)},
-  title     = {Cellular 3D-reconstruction and analysis in the
-human cerebral cortex using automatic serial
-sections},
+  title     = {Cellular 3D-reconstruction and analysis in the human cerebral cortex using automatic serial sections},
   year      = {2021},
-    number    = {4},
-    volume    = {1030},
+  number    = {4},
+  volume    = {1030},
   doi       = {10.1038/s42003-021-02548-6},
   publisher = {Springer Nature},
 }
