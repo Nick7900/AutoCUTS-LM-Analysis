@@ -61,6 +61,7 @@ If you have any questions or suggestions, you can reach Nick via e-mail at nick.
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.4287469.svg)](https://doi.org/10.5281/zenodo.4287469)
 
 ## Citation
+```
 If using this dataset, please cite:
 @Article{NYLCOM,
   author    = {NY Larsen and X Li and X Tan and G Ji and J Lin and G Rajkowska and J Møller and N Vihrs and J Sporring and F Sun and JR Nyengaard},
@@ -74,6 +75,6 @@ sections},
   doi       = {10.1038/s42003-021-02548-6},
   publisher = {Springer Nature},
 }
-
+```
 #### Author: Nick Yin Larsen
 
