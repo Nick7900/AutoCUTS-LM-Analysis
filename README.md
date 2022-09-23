@@ -56,11 +56,24 @@ All credits go to the script writer, Ninna Vihrs.
 - The code analyses the columnar structure in 3D point patterns for one test subject.
 - Pictures will be attach after publication.
 
-
-
 ## Contact
 If you have any questions or suggestions, you can reach Nick via e-mail at nick.yin.larsen@gmail.com for the MATLAB scripts or Ninna via e-mail at nvihrs@math.aau.dk for the R-script.
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.4287469.svg)](https://doi.org/10.5281/zenodo.4287469)
+
+## Citation
+If using this dataset, please cite:
+@Article{NYLCOM,
+  author    = {NY Larsen and X Li and X Tan and G Ji and J Lin and G Rajkowska and J Møller and N Vihrs and J Sporring and F Sun and JR Nyengaard},
+  journal   = {Communication Biology (in press)},
+  title     = {Cellular 3D-reconstruction and analysis in the
+human cerebral cortex using automatic serial
+sections},
+  year      = {2021},
+    number    = {4},
+    volume    = {1030},
+  doi       = {10.1038/s42003-021-02548-6},
+  publisher = {Springer Nature},
+}
 
 #### Author: Nick Yin Larsen
 
